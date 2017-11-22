@@ -1,0 +1,5 @@
+[03-Nov-2017 07:14:03 UTC] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: invalid connection option "pass" in /home/kendraco/app.suyo.io/posgretsql/conexion.php on line 9
+[03-Nov-2017 07:14:03 UTC] PHP Warning:  pg_close() expects parameter 1 to be resource, boolean given in /home/kendraco/app.suyo.io/posgretsql/conexion.php on line 16
+[03-Nov-2017 14:22:49 UTC] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  no pg_hba.conf entry for host "::1", user "kendraco_usrsuyo", database "kendraco_usrsuyo", SSL off in /home/kendraco/app.suyo.io/posgretsql/conexion2.php on line 8
+[03-Nov-2017 14:22:49 UTC] PHP Warning:  pg_last_error(): No PostgreSQL link opened yet in /home/kendraco/app.suyo.io/posgretsql/conexion2.php on line 8
+[03-Nov-2017 14:41:54 UTC] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  database "kendraco_usrsuyo" does not exist in /home/kendraco/app.suyo.io/posgretsql/conexion2.php on line 3
